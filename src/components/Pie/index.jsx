@@ -47,7 +47,7 @@ function Pie() {
                 	</a>
             	</li>
         	</IconoContainer>
-        	<PieTexto>Desarrollado por Alura.</PieTexto>
+        	<PieTexto>Desarrollado por Maximiliano rios.</PieTexto>
     	</PieEstilizado>
 	);
 }
